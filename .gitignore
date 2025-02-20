@@ -1,0 +1,9 @@
+server-nest/node_modules
+server-nest/.env
+server-nest/.idea
+server-nest/dist
+server/node_modules
+server/.idea
+ai/node_modules
+ai/.env
+server/.env
